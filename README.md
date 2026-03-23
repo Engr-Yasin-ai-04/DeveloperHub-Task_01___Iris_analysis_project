@@ -113,3 +113,15 @@ The application provides an interactive web interface to explore and visualize t
 - Clean data tables
 
 ---
+
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+- Python 3.9 or higher
+- pip package manager
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/yourusername/iris-analysis-project.git
+cd iris-analysis-project
